@@ -1,0 +1,16 @@
+{
+    "url": "
+https://ruchithareddy76.github.io/xss-poc/swagger.yaml"
+,
+    "urls": [{
+        "url": "
+https://ruchithareddy76.github.io/xss-poc/swagger.yaml"
+,
+        "name": "Foo"
+    },{
+        "url": "
+https://ruchithareddy76.github.io/xss-poc/swagger.yaml"
+,
+        "name": "Foo2"
+    }]
+}
